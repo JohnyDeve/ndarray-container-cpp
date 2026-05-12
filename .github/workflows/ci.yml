@@ -19,7 +19,7 @@ jobs:
       - name: Check formatting
         run: |
           clang-format --dry-run --Werror \
-          include/NDArray.h \
+          include/NDArray.hpp \
           tests/tests.cpp
 
       - name: Configure
