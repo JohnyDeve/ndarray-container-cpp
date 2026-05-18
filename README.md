@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./readme_assets/NDArray-banner.png" alt="NDArray Banner" width="700">
+  <img src="./readme_assets/ndarray-banner.png" alt="NDArray Banner" width="700">
 </p>
 
 <p align="center">
