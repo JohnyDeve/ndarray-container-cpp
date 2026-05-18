@@ -3,9 +3,9 @@
 NDArray implements a dedicated multidimensional traversal system based on reusable iterator/view abstractions.
 
 * `NDArrayView`
-        \\
-         |>- `GeneralNDArrayView`
-        /
+    |
+     }- `GeneralNDArrayView`
+    |
 * `NDArrayConstView`
 
 The library provides:
