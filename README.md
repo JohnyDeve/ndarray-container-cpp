@@ -12,7 +12,9 @@
 [![License: MIT](https://img.shields.io/badge/MIT-green?style=flat-square)](https://opensource.org/license/mit)
 [![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/JohnyDeve/ndarray-container-cpp/actions)
 [![clang-format](https://img.shields.io/badge/Code%20Style-clang--format-673DE6?style=flat-square&logo=llvm&label=clang-format&labelColor=8A2BE2)]()
-[![GoogleTest](https://img.shields.io/badge/tests-googletest-black?style=flat-square&logo=google)](https://github.com/google/googletest)
+[![clang-format](https://img.shields.io/badge/Code%20Style-clang--format-8A2BE2?style=flat-square&logo=llvm)](https://clang.llvm.org/docs/ClangFormat.html)
+
+[![GoogleTest](https://img.shields.io/badge/googletest-25A162?style=flat-square&logo=google&logoColor=white)](https://github.com/google/googletest)
 
 ![Repo Size](https://img.shields.io/github/repo-size/JohnyDeve/ndarray-container-cpp?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/JohnyDeve/ndarray-container-cpp?style=flat-square)
